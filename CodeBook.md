@@ -10,13 +10,15 @@ For each record it is provided:
 
 ##Data Dictionary for the Averaged Dataset
 
-* subject	2
+* subject       
+		2
 
 		subject performing activity
 
 			* 1..30 sequential number of the subject performing activity
 			
-* activity	18
+* activity      
+		18
 
 		activity performed
 		
@@ -27,7 +29,8 @@ For each record it is provided:
 			* STANDING
 			* LAYING
 			
-* feature	13
+* feature      
+ 		13
 
 		one out of 79 features values (please refer to the file "UsedFeatures.md" for the details)
 
