@@ -1,8 +1,14 @@
 ##Features chosen for the Averaged Dataset
 
 Features described in the form: 
-<sequential number of the feature in the file "features.txt" of the Source Dataset> <feature name as in the file "features.txt" distributed with the Source Dataset archive available in [2]>
+
+SequentialNumberOfTheFeatureInSourceDataset FeatureNameInSourceDataset
+
+Please the the full list of features in the file "features.txt" distributed with the Source Dataset archive available in [2].
+
 Please refer to the file "features_info.txt" distributed with the Source Dataset archive available in [2] for further details of how the feature values were obtained.
+
+[2] http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip
 
 ###Time-dependent features data
 
